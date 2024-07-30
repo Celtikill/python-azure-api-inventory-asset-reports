@@ -1,0 +1,27 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Celtikill-ownjavascript:void(0)",
+    "description": "Azure infrastructure explorer - creates asset inventory in python with modular architecture.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "STRIDE",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.2.0",
+        "cells": [],
+        "description": "Threat Model (STRIDE) for app"
+      }
+    ],
+    "diagramTop": 4,
+    "reviewer": "Celtikill-review",
+    "threatTop": 0
+  }
+}
